@@ -104,4 +104,3 @@ The shortest paths are:
 <2,3>=2
 <3,1>=999
 <3,2>=999
-k
